@@ -1,0 +1,11 @@
+{
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.suggest.insertMode": "replace",
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": false
+  },
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.tabCompletion": "off"
+}
